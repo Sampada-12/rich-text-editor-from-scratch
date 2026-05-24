@@ -171,3 +171,12 @@ body {
     }
   }
 }
+
+/* =========================
+   Active State For Show Code Button
+========================= */
+#show-code[data-active="true"] {
+  background: #4a90e2;
+  color: white;
+  border-color: #4a90e2;
+}
